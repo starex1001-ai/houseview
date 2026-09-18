@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "name": "집보기",
+  "brand": "HOUSEVIEW",
+  "mark": "HO",
+  "worker": "houseview",
+  "url": "https://houseview.webnote-lab.workers.dev",
+  "description": "집보기의 정보와 실용 가이드를 정리합니다.",
+  "tagline": "집보기, 차근차근 알아보기",
+  "categories": [
+    {
+      "description": "집보기의 정보와 실용 가이드를 정리합니다.",
+      "name": "집보기",
+      "slug": "houseview"
+    }
+  ],
+  "contact_url": "https://github.com/starex1001-ai/houseview/issues"
+}
